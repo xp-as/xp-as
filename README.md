@@ -9,3 +9,9 @@ The file of config/config_model_classify.py defines network to classify and laye
 
 
 The trained parameters for classification are in the release file (ver1.0).
+
+# Environment
+- CUDA Version 8.0.61
+- Python 3.5
+- pip packages: See requirements.txt
+
